@@ -15,3 +15,7 @@ Features
     Highly Customizable.
 
 Demo: http://studioarrival.com/demo/mm/
+
+Admin Demo: http://studioarrival.com/demo/mm/admin
+Email: demo@demo.com
+Password: admin
